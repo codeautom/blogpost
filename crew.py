@@ -14,8 +14,8 @@ def main():
 
     # Display introductory text
     st.markdown("""
-    **USING CREW AI FOR MULTIPLE AGENTS, 
-    CHATGROQ API USING  "llama3-70b-8192"
+    **
+    CHATGROQ API USING META : "llama3-70b-8192"
     """)
 
     # Text input for the topic
