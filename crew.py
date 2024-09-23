@@ -14,13 +14,8 @@ def main():
 
     # Display introductory text
     st.markdown("""
-    **Multi-agent workflows in content creation** involve specialized roles, 
-    such as planners, writers, and editors, working together to enhance efficiency, 
-    creativity, and quality. These systems allow for parallel task execution, minimizing 
-    bottlenecks and fostering collaboration. Platforms like CrewAI enable coordination among 
-    agents, while Groq’s advanced language models like Llama3–70B support content generation.
-     The process includes content planning, writing, and editing to ensure polished, engaging, 
-     and accurate output. This approach offers scalability to meet growing content demands.
+    **USING CREW AI FOR MULTIPLE AGENTS, 
+    CHATGROQ API USING  "llama3-70b-8192"
     """)
 
     # Text input for the topic
